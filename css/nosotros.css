@@ -1,0 +1,58 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+body{
+    background-color: black;
+}
+
+p{background-color: black;
+color: aliceblue;
+}
+h1{
+    color: aliceblue;
+    margin: auto;
+    padding: 10px;
+    text-align: center;
+    font-size: 40px;
+    background-color: /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#ff3232+0,871515+48,561011+50,721213+53,f98686+100 */
+    background: rgb(255,50,50); /* Old browsers */
+    background: -moz-linear-gradient(top,  rgba(255,50,50,1) 0%, rgba(135,21,21,1) 48%, rgba(86,16,17,1) 50%, rgba(114,18,19,1) 53%, rgba(249,134,134,1) 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(top,  rgba(255,50,50,1) 0%,rgba(135,21,21,1) 48%,rgba(86,16,17,1) 50%,rgba(114,18,19,1) 53%,rgba(249,134,134,1) 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to bottom,  rgba(255,50,50,1) 0%,rgba(135,21,21,1) 48%,rgba(86,16,17,1) 50%,rgba(114,18,19,1) 53%,rgba(249,134,134,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ff3232', endColorstr='#f98686',GradientType=0 ); /* IE6-9 */
+    ;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h2{
+    color: aliceblue;
+    margin: auto;
+    padding: 10px;
+    text-align: center;
+    font-size: 40px;
+    background-color: /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#ff3232+0,871515+48,561011+50,721213+53,f98686+100 */
+    background: rgb(255,50,50); /* Old browsers */
+    background: -moz-linear-gradient(top,  rgba(255,50,50,1) 0%, rgba(135,21,21,1) 48%, rgba(86,16,17,1) 50%, rgba(114,18,19,1) 53%, rgba(249,134,134,1) 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(top,  rgba(255,50,50,1) 0%,rgba(135,21,21,1) 48%,rgba(86,16,17,1) 50%,rgba(114,18,19,1) 53%,rgba(249,134,134,1) 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to bottom,  rgba(255,50,50,1) 0%,rgba(135,21,21,1) 48%,rgba(86,16,17,1) 50%,rgba(114,18,19,1) 53%,rgba(249,134,134,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ff3232', endColorstr='#f98686',GradientType=0 ); /* IE6-9 */
+    ;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.empresa{
+    background-image: url("../img/pro4.png");
+    background-attachment: fixed;
+    background-repeat: none;
+    background-size: cover;
+    padding: 30px;
+    margin: 50px
+}
+.garantia{
+    background-image: url("../img/iphone+ear+watch.png");
+    background-attachment: fixed;
+    background-repeat: none;
+    background-size: cover;
+    padding: 30px;
+    margin: 50px
+}
